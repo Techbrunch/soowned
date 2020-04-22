@@ -1,0 +1,17 @@
+name: soowned
+version: 0.1.0
+
+authors:
+  - techbrunch <techbrunch@users.noreply.github.com>
+
+targets:
+  soowned:
+    main: src/soowned.cr
+
+dependencies:
+  public_suffix:
+    github: kostya/public_suffix
+
+crystal: 0.33.0
+
+license: MIT

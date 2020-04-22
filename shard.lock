@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  public_suffix:
+    github: kostya/public_suffix
+    commit: 0ebe5bafd6d147afdd10c8b2bef846eccf97a257
+
