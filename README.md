@@ -12,6 +12,17 @@ SoOwned
     -w PATH                          Wordlist
 ```
 
+## Requirements
+
+- [Crystal](https://crystal-lang.org/install/)
+
+On macOS:
+
+```
+brew update
+brew install crystal
+```
+
 ## Installation
 
 ```
