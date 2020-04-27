@@ -26,6 +26,7 @@ brew install crystal
 ## Installation
 
 ```
+shards install
 crystal build src/soowned.cr --release --no-debug -o bin/soowned
 ```
 
